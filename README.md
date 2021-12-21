@@ -11,4 +11,10 @@
 ## 분류
 
 ### JavaScript
-- [20211219_async vs defer](https://github.com/hasunghwa/TIL/blob/main/JavaScript/20211220.md)
+- [211221_callback(promise)](https://github.com/hasunghwa/TIL/blob/main/JavaScript/211221_callback(promise).md)
+- [211220_json](https://github.com/hasunghwa/TIL/blob/main/JavaScript/211220_json.md)
+- [211220_array](https://github.com/hasunghwa/TIL/blob/main/JavaScript/20211220.md)
+- [211220_function](https://github.com/hasunghwa/TIL/blob/main/JavaScript/211220_function.md)
+- [211219_operator](https://github.com/hasunghwa/TIL/blob/main/JavaScript/211219_operator.md)
+- [211219_dataType](https://github.com/hasunghwa/TIL/blob/main/JavaScript/211219_dataType.md)
+- [211219_async vs defer](https://github.com/hasunghwa/TIL/blob/main/JavaScript/211219_async%20vs%20defer.md)
