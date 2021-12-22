@@ -1,17 +1,27 @@
 # TIL(Today I Learned)
+
 1. 기록하는 습관을 들이기 위해 학습한 내용이나 개발경험들을 문서화하여 정리한다.
 2. 동일한 문제에 부딪혔을 때 이전의 경험을 통해 해결하기 위함이다.
 
 ## 작성법
-- 폴더와 파일명은 영문으로 작성한다.  
-- 오랜시간이 지나 다시 보았을 때에도 이해가 될 수 있도록 꼼꼼하게 작성한다.
-- [Github-Flavoured Markdown](https://guides.github.com/features/mastering-markdown/)으로 작성하고 파일 확장자는 `md`.  
 
+- 폴더와 파일명은 영문으로 작성한다.
+- 오랜시간이 지나 다시 보았을 때에도 이해가 될 수 있도록 꼼꼼하게 작성한다.
+- [Github-Flavoured Markdown](https://guides.github.com/features/mastering-markdown/)으로 작성하고 파일 확장자는 `md`.
 
 ## 분류
 
+### HTML/CSS
+
+- [211222_CSS_flexbox](https://github.com/hasunghwa/TIL/blob/main/HTML_CSS/211222_CSS_flexbox.md)
+- [211222_CSS_display_position](https://github.com/hasunghwa/TIL/blob/main/HTML_CSS/211222_CSS_display_position.md)
+- [211222_CSS](https://github.com/hasunghwa/TIL/blob/main/HTML_CSS/211222_CSS.md)
+- [211222_HTMLtag2](https://github.com/hasunghwa/TIL/blob/main/HTML_CSS/211222_HTMLtag2.md)
+- [211222_HTMLtag](https://github.com/hasunghwa/TIL/blob/main/HTML_CSS/211222_HTMLtag.md)
+
 ### JavaScript
-- [211221_callback(promise)](https://github.com/hasunghwa/TIL/blob/main/JavaScript/211221_callback(promise).md)
+
+- [211221_callback(promise)](<https://github.com/hasunghwa/TIL/blob/main/JavaScript/211221_callback(promise).md>)
 - [211220_json](https://github.com/hasunghwa/TIL/blob/main/JavaScript/211220_json.md)
 - [211220_array](https://github.com/hasunghwa/TIL/blob/main/JavaScript/211220_array.md)
 - [211220_function](https://github.com/hasunghwa/TIL/blob/main/JavaScript/211220_function.md)
