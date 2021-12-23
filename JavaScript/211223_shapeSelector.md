@@ -2,7 +2,7 @@
 
 [간단한 웹 어플리케이션(도형 선택기)](https://github.com/hasunghwa/shapeSelector/tree/master)
 
-![selector](image/image3.png)
+![selector](image/image3.PNG)
 
 ## 프로젝트를 통해 배운 점
 
