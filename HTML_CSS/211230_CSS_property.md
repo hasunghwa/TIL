@@ -16,7 +16,7 @@
 
   ```css
   color: red; /* color name */
-  color: rgb(256, 0, 0); /* rgb */
+  color: rgb(255, 0, 0); /* rgb */
   color: #ff0000; /* hex */
   ```
 
