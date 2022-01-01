@@ -5,7 +5,7 @@
 ### 타이포그래피(Typography)
 
 - font-size
-  단위 (px: 고정, rem: 가변)
+  단위 (px: 고정, rem: 가변)  
   html의 font-size가 16px이라면 1rem=16px
 
   ```css
@@ -20,7 +20,7 @@
   color: #ff0000; /* hex */
   ```
 
-- text-align(정렬)
+- text-align(정렬)  
   center, right, left, justify....
 
   ```css
@@ -34,7 +34,7 @@
   Sans-serif(장식x) vs Serif
   ![image6](./image/image6.png)
 
-  font-weight → 폰트 굵기(normal, bold)
+  font-weight → 폰트 굵기(normal, bold)  
   line-height → 폭의 간격(2를 쓰면 폰트크기의 2배)
 
   ```css
@@ -52,7 +52,7 @@
 
 - web font
 
-  > 웹에서 다운받아서 사용하는 폰트(폰트 용량 이슈)
+  > 웹에서 다운받아서 사용하는 폰트(폰트 용량 이슈)  
   > 구글 웹폰트 사이트 https://fonts.google.com/
 
   ```html
@@ -68,7 +68,7 @@
 
   사용하고싶은 폰트를 선택하여 link tag를 통해 다운받고 css에서 font-family를 통해 적용
 
-- font-face
+- font-face  
   font-face는 자신이 가지고 있는 폰트를 사용할 수 있게 해준다.  
   font-face generator를 통해 자신의 폰트를 변형하여 다운받고 font-face를 통해 폰트를 정의한다.
 
