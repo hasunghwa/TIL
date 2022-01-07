@@ -13,6 +13,8 @@
 
 ### HTML/CSS
 
+- [220107_CSS_animation](https://github.com/hasunghwa/TIL/blob/main/HTML_CSS/220107_CSS_animation.md)
+- [220106_CSS_Pseudo-Element](https://github.com/hasunghwa/TIL/blob/main/HTML_CSS/220106_CSS_Pseudo-Element.md)
 - [211231_CSS_transform](https://github.com/hasunghwa/TIL/blob/main/HTML_CSS/211231_CSS_transform.md)
 - [211230_CSS_property](https://github.com/hasunghwa/TIL/blob/main/HTML_CSS/211230_CSS_property.md)
 - [211222_CSS_flexbox](https://github.com/hasunghwa/TIL/blob/main/HTML_CSS/211222_CSS_flexbox.md)
